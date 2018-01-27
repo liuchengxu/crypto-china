@@ -15,7 +15,7 @@ lang: "en"
 url: "http://cindycoin.today" # the base hostname & protocol for your site
 twitter_username:
 github_username:
-disqus_username: liuchengxu
+disqus_shortname: liuchengxu
 
 # Build settings
 markdown: kramdown
